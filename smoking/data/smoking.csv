@@ -1,0 +1,181 @@
+"","Country","year","LE","id","smoking_female","smoking_male"
+"Afghanistan","Afghanistan",2005,52.9,2,NA,NA
+"Albania","Albania",2005,74.4,4,4,40.5
+"Algeria","Algeria",2005,74.5,5,0.3,29.9
+"Andorra","Andorra",2005,83.1,7,29.2,36.5
+"Angola","Angola",2005,56,8,NA,NA
+"Antigua and Barbuda","Antigua and Barbuda",2005,74.3,10,NA,NA
+"Argentina","Argentina",2005,75.4,11,25.4,34.6
+"Armenia","Armenia",2005,72.2,12,3.7,55.1
+"Australia","Australia",2005,81.2,14,21.8,27.7
+"Austria","Austria",2005,79.6,15,40.1,46.4
+"Azerbaijan","Azerbaijan",2005,69.5,16,0.9,NA
+"Bahamas","Bahamas",2005,72.1,17,NA,NA
+"Bahrain","Bahrain",2005,75.2,18,2.9,26.1
+"Bangladesh","Bangladesh",2005,67.9,19,3.8,47
+"Barbados","Barbados",2005,75,20,3,18.4
+"Belarus","Belarus",2005,68.8,21,21.1,63.7
+"Belgium","Belgium",2005,79.2,22,24.1,30.1
+"Belize","Belize",2005,70.6,23,NA,NA
+"Benin","Benin",2005,61.4,24,NA,NA
+"Bhutan","Bhutan",2005,66.6,26,NA,NA
+"Bolivia","Bolivia",2005,70,27,29.2,34.1
+"Bosnia and Herzegovina","Bosnia and Herzegovina",2005,75.7,28,35.1,49.3
+"Botswana","Botswana",2005,54.3,29,NA,NA
+"Brazil","Brazil",2005,73.4,30,NA,NA
+"Brunei","Brunei",2005,77.3,32,NA,NA
+"Bulgaria","Bulgaria",2005,72.5,33,27.8,47.5
+"Burkina Faso","Burkina Faso",2005,56.8,34,11.2,22
+"Burundi","Burundi",2005,53.8,35,NA,NA
+"Cambodia","Cambodia",2005,64.5,36,6.5,40.5
+"Cameroon","Cameroon",2005,55.2,37,2.2,12.6
+"Canada","Canada",2005,80.3,38,18.9,24.3
+"Cape Verde","Cape Verde",2005,71.8,39,NA,NA
+"Chad","Chad",2005,53.6,42,2.6,16
+"Chile","Chile",2005,78.4,44,33.6,42.1
+"China","China",2005,73.9,45,3.7,59.5
+"Colombia","Colombia",2005,74.1,48,NA,NA
+"Comoros","Comoros",2005,61.9,49,13.5,27.7
+"Congo, Dem. Rep.","Congo, Dem. Rep.",2005,54.2,50,2.6,13.5
+"Congo, Rep.","Congo, Rep.",2005,56.1,51,1,12.1
+"Costa Rica","Costa Rica",2005,78.8,53,7.3,26.1
+"Cote d'Ivoire","Cote d'Ivoire",2005,53.6,54,2.4,15.4
+"Croatia","Croatia",2005,76.3,55,29.1,38.9
+"Cuba","Cuba",2005,77.1,56,28.3,43.4
+"Cyprus","Cyprus",2005,80.4,57,NA,NA
+"Denmark","Denmark",2005,78.1,60,30.6,36.1
+"Djibouti","Djibouti",2005,59.9,61,NA,NA
+"Dominica","Dominica",2005,74.1,62,NA,NA
+"Ecuador","Ecuador",2005,73.8,65,5.8,23.9
+"Egypt","Egypt",2005,69.8,66,1.3,28.7
+"El Salvador","El Salvador",2005,73.4,67,NA,NA
+"Equatorial Guinea","Equatorial Guinea",2005,55.5,68,NA,NA
+"Eritrea","Eritrea",2005,59,69,1.2,16.9
+"Estonia","Estonia",2005,72.4,71,27.5,49.9
+"Ethiopia","Ethiopia",2005,56.8,72,0.9,7.6
+"Fiji","Fiji",2005,65.3,75,5.1,23.6
+"Finland","Finland",2005,78.8,76,24.4,31.8
+"France","France",2005,80.4,77,26.7,36.6
+"Gabon","Gabon",2005,57,80,NA,NA
+"Gambia","Gambia",2005,61.3,81,2.9,29.3
+"Georgia","Georgia",2005,72.4,82,6.3,57.1
+"Germany","Germany",2005,79.4,83,25.8,37.4
+"Ghana","Ghana",2005,61.5,84,0.8,10.2
+"Greece","Greece",2005,78.9,86,39.8,63.6
+"Grenada","Grenada",2005,70.1,88,NA,NA
+"Guatemala","Guatemala",2005,69.5,91,4.1,24.5
+"Guinea","Guinea",2005,57.3,93,NA,NA
+"Guinea-Bissau","Guinea-Bissau",2005,50.9,94,NA,NA
+"Guyana","Guyana",2005,62.6,95,NA,NA
+"Haiti","Haiti",2005,60.3,96,NA,NA
+"Honduras","Honduras",2005,70.1,98,3.4,NA
+"Hungary","Hungary",2005,73,100,33.9,45.7
+"Iceland","Iceland",2005,81.3,101,26.6,26.1
+"India","India",2005,63.2,102,3.8,33.1
+"Indonesia","Indonesia",2005,69,103,4.5,65.9
+"Iran","Iran",2005,74.5,104,5.5,29.6
+"Iraq","Iraq",2005,66.6,105,2.5,25.8
+"Ireland","Ireland",2005,78.9,106,26,26.5
+"Israel","Israel",2005,80,108,17.9,31.1
+"Italy","Italy",2005,81.2,109,19.2,32.8
+"Jamaica","Jamaica",2005,74.7,110,9.2,20.8
+"Japan","Japan",2005,82.2,111,14.3,44.3
+"Jordan","Jordan",2005,74.2,113,9.8,62.7
+"Kazakhstan","Kazakhstan",2005,64.7,114,9.7,43.2
+"Kenya","Kenya",2005,58.8,115,2.2,27.1
+"Kiribati","Kiribati",2005,60.6,116,NA,NA
+"Kuwait","Kuwait",2005,78.2,121,NA,NA
+"Latvia","Latvia",2005,70.9,124,24.1,54.4
+"Lebanon","Lebanon",2005,77.3,125,7,29.1
+"Lesotho","Lesotho",2005,44.1,126,NA,NA
+"Liberia","Liberia",2005,59.3,127,NA,NA
+"Libya","Libya",2005,75.1,128,NA,NA
+"Lithuania","Lithuania",2005,71.5,130,20.8,45.1
+"Luxembourg","Luxembourg",2005,79.8,131,30.3,39.1
+"Macedonia, FYR","Macedonia, FYR",2005,75.1,133,NA,NA
+"Madagascar","Madagascar",2005,62.3,134,NA,NA
+"Malawi","Malawi",2005,48.4,135,6.2,23.7
+"Malaysia","Malaysia",2005,74.4,136,2.8,54.4
+"Maldives","Maldives",2005,76.7,137,11.6,44.5
+"Mali","Mali",2005,54.2,138,2.8,19.5
+"Malta","Malta",2005,80.9,139,24.5,32.8
+"Marshall Islands","Marshall Islands",2005,63.5,140,NA,NA
+"Mauritania","Mauritania",2005,62.7,142,3.7,22.3
+"Mauritius","Mauritius",2005,72,143,1.1,35.7
+"Mexico","Mexico",2005,75.6,145,12.4,36.9
+"Micronesia, Fed. Sts.","Micronesia, Fed. Sts.",2005,65.6,146,NA,NA
+"Moldova","Moldova",2005,69.7,147,5.8,45.8
+"Monaco","Monaco",2005,NA,148,NA,NA
+"Mongolia","Mongolia",2005,62.2,149,6.5,45.8
+"Montenegro","Montenegro",2005,73.9,150,NA,NA
+"Morocco","Morocco",2005,72.5,152,0.3,29.5
+"Mozambique","Mozambique",2005,53.9,153,3.4,22
+"Myanmar","Myanmar",2005,63.5,154,13.6,46.5
+"Namibia","Namibia",2005,51.9,155,10.9,38.6
+"Nauru","Nauru",2005,NA,156,52.4,46.1
+"Nepal","Nepal",2005,67.3,157,26.4,34.8
+"Netherlands","Netherlands",2005,79.5,158,30.3,38.3
+"New Zealand","New Zealand",2005,79.8,161,27.5,29.7
+"Nicaragua","Nicaragua",2005,74.6,163,NA,NA
+"Niger","Niger",2005,57.3,164,NA,NA
+"Nigeria","Nigeria",2005,56.9,165,1.2,13
+"Niue","Niue",2005,NA,166,NA,NA
+"Norway","Norway",2005,80.1,170,30.4,33.6
+"Oman","Oman",2005,74.3,171,1.3,24.7
+"Pakistan","Pakistan",2005,62.6,172,6.6,35.4
+"Palau","Palau",2005,NA,173,9.7,38.1
+"Panama","Panama",2005,77.2,174,NA,NA
+"Papua New Guinea","Papua New Guinea",2005,57.3,175,NA,NA
+"Paraguay","Paraguay",2005,73.5,176,14.8,33
+"Peru","Peru",2005,76.2,177,NA,NA
+"Philippines","Philippines",2005,69,178,9.8,42
+"Poland","Poland",2005,75,180,27.2,43.9
+"Portugal","Portugal",2005,78.4,181,31,40.6
+"Qatar","Qatar",2005,78.8,183,NA,NA
+"Romania","Romania",2005,72.6,185,24.5,40.6
+"Russia","Russia",2005,64.8,186,26.5,70.1
+"Rwanda","Rwanda",2005,57.3,187,NA,NA
+"Samoa","Samoa",2005,70.8,195,23.4,58.3
+"Sao Tome and Principe","Sao Tome and Principe",2005,66.2,197,10.6,23.2
+"Saudi Arabia","Saudi Arabia",2005,77.2,198,3.6,25.6
+"Senegal","Senegal",2005,62.8,199,1.5,19.8
+"Serbia","Serbia",2005,75.8,200,42.3,42.3
+"Seychelles","Seychelles",2005,71.9,203,7,35.2
+"Sierra Leone","Sierra Leone",2005,54.4,204,NA,NA
+"Singapore","Singapore",2005,80.2,205,NA,NA
+"Slovak Republic","Slovak Republic",2005,74.3,206,20.1,41.6
+"Slovenia","Slovenia",2005,77.2,207,21.1,31.8
+"Solomon Islands","Solomon Islands",2005,62,208,NA,NA
+"Somalia","Somalia",2005,56.2,209,NA,NA
+"South Africa","South Africa",2005,53.1,211,9.1,27.5
+"Spain","Spain",2005,80.4,213,30.9,36.4
+"Sri Lanka","Sri Lanka",2005,74.2,214,2.6,30.2
+"Sudan","Sudan",2005,66.3,215,NA,NA
+"Suriname","Suriname",2005,68.5,216,NA,NA
+"Swaziland","Swaziland",2005,43.5,218,3.2,14.6
+"Sweden","Sweden",2005,80.5,219,24.5,19.6
+"Switzerland","Switzerland",2005,81.2,220,22.2,30.7
+"Syria","Syria",2005,75.8,221,NA,44
+"Tajikistan","Tajikistan",2005,68.8,223,NA,NA
+"Tanzania","Tanzania",2005,57.2,224,4.3,24.8
+"Thailand","Thailand",2005,72.8,225,3.4,39.8
+"Timor-Leste","Timor-Leste",2005,67,226,NA,NA
+"Togo","Togo",2005,59,227,NA,NA
+"Tonga","Tonga",2005,69.5,229,15.8,61.8
+"Trinidad and Tobago","Trinidad and Tobago",2005,70.9,231,7.6,36.4
+"Tunisia","Tunisia",2005,76,232,1.9,51
+"Turkey","Turkey",2005,73.8,233,19.2,51.6
+"Turkmenistan","Turkmenistan",2005,64.8,234,NA,NA
+"Tuvalu","Tuvalu",2005,NA,236,NA,NA
+"Uganda","Uganda",2005,54.5,237,3.2,20.9
+"Ukraine","Ukraine",2005,67.2,238,NA,NA
+"United Arab Emirates","United Arab Emirates",2005,75.3,239,2.6,26.1
+"United Kingdom","United Kingdom",2005,79.1,240,34.7,36.7
+"United States","United States",2005,77.7,241,21.5,26.3
+"Uruguay","Uruguay",2005,75.4,242,28,37.1
+"Uzbekistan","Uzbekistan",2005,68.1,244,1.2,24.2
+"Vanuatu","Vanuatu",2005,63.1,246,8.1,49.1
+"Venezuela","Venezuela",2005,75,247,27,32.5
+"Vietnam","Vietnam",2005,74.6,251,2.5,45.7
+"Zambia","Zambia",2005,47.9,257,5,21.7
+"Zimbabwe","Zimbabwe",2005,47.7,258,4.4,25.5
