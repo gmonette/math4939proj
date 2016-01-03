@@ -1,11 +1,11 @@
 #'
 #' Smoking and life expectancies
 #' 
-#' CAUTION: Set current directory to Source File Location with
-#' Menu: Session > Set Working Directory > To Source File Location
-getwd()   # where are we?
+#' 
+
+getwd()   # where are we? Session > Set Working Directory > To Source File Location
 library(yscs)  # devtools::install_github('gmonette/yscs') # SCS tools
-library(xlsx)   # install.packages('xlsx') # read xls[x] files
+library(xlsx) # install.packages('xlsx') # read xls[x] files
 library(magrittr) # command pipelines
 library(latticeExtra) # graphics
 
@@ -111,14 +111,15 @@ rownames(zl) <- with(zl, paste(Country,year))
 Tab(zl, ~ Country+year) %>% c %>% tab # each combination unique
 lapply(zl, class)     # check class of variables. OK
 # have a look:
-windows()
+# windows()
 xyplot(LE ~ year, zl, groups = Country, type = 'l')
 gd(9)  # uses ggplot theme
 xyplot(LE ~ year, zl, groups = Country, type = 'l')
 trellis.focus()
-panel.identify(labels = dl$Country)
+panel.identify(labels = zl$Country)
 trellis.unfocus()
 life_expectancy <- zl
+
 
 #'
 #' ## Smoking
