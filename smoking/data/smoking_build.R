@@ -1,18 +1,14 @@
 #'
-#' Smoking and life expectancies
+#' Smoking and Life Expectancies
 #' 
-#' 
-
 getwd()   # where are we? Session > Set Working Directory > To Source File Location
 library(yscs)  # devtools::install_github('gmonette/yscs') # SCS tools
 library(xlsx) # install.packages('xlsx') # read xls[x] files
 library(magrittr) # command pipelines
 library(latticeExtra) # graphics
-
 #'
 #' Using Gapminder data (self described in Excel file)
 #'
-
 smoke.file <- "smoking-download/indicator life_expectancy_at_birth.xlsx"
 file.mtime(smoke.file)
 z <- read.xlsx2("smoking-download/indicator life_expectancy_at_birth.xlsx", sheetIndex = 1)

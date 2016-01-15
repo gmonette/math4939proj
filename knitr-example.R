@@ -1,7 +1,14 @@
+
+
+
+
+
+
 #' This is a special R script which can be used to generate a report. You can
 #' write normal text in roxygen comments.
 #'
 #' First we set up some options (you do not have to do this):
+
 
 #+ setup, include=FALSE
 library(knitr)
@@ -49,3 +56,4 @@ Sys.sleep(60)
 # */
 
 # /* there is no inline comment; you have to write block comments */
+
